@@ -5,4 +5,10 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <!--Permission-->
+    <string name="sms_receive_granted">권한 허가</string>
+    <string name="sms_receive_denied">권한 거부</string>
+    <string name="sms_receive_permission_ration_message">문자수집을 위해 Receive_SMS 권한이 필요합니다.</string>
+    <string name="sms_receive_permission_denied_message">왜 거부하셨어요 하지만 [설정]>[권한] 에서 권한을 허용할 수 있어요.</string>
 </resources>
